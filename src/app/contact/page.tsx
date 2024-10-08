@@ -1,4 +1,5 @@
 import style from "./contact.module.css"
+console.log(style, "Style")
 
 const ContactPage= ()=>{
     return (

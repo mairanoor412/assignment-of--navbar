@@ -1,5 +1,7 @@
 import style from "./style/nav.module.css"
 import Link from "next/link";
+
+console.log(style, "Style")
 const Nav = () => {
   return (
     <div className={style.container}>

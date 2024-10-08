@@ -1,4 +1,5 @@
 import style from "./service.module.css"
+console.log(style, "Style")
 
 function ServicePage(){
     return(

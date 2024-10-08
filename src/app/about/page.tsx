@@ -1,4 +1,6 @@
 import style from "./about.module.css"
+
+console.log(style, "Style")
 const AboutPage = ()=>{
     return(
         <div className={style.container}> 
